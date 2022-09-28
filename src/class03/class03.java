@@ -6,7 +6,7 @@ public class class03 {
 	
 		System.out.println("This is a git class");		
 		System.out.println("This is just a change in my project");	
-			
+		System.out.println("This is another change in eclipse so we can check git bash");
 			
 		
 		
